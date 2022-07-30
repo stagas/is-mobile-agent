@@ -3,9 +3,8 @@
   "author": "stagas",
   "short": "stagas/is-mobile-agent",
   "description": "Singleton boolean that is true when user agent is mobile or tablet.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://git@github.com:stagas/is-mobile-agent.git"
